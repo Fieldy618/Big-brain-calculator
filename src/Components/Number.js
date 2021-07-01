@@ -6,6 +6,8 @@ const Number = () => {
   let numberString = "";
   console.log(buttonNum);
 
+  // Could store function as variable?
+
   return (
     <div>
       <section className="numberbuttons grid">
